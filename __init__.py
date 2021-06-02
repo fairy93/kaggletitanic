@@ -1,5 +1,5 @@
 from kaggletitanic.views.controller import Controller
-from kaggletitanic.views.test import Test
+# from kaggletitanic.views.test import Test
 from kaggletitanic.templates.plot import Plot
 
 if __name__ == '__main__':
